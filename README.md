@@ -1,4 +1,4 @@
-# Emotion-Detection-CNN-vs-Vision-Transformer
+# Emotion-Detection-CNN-vs-Vision-Transformer.
 
 
 # Comparative Analysis of CNN and Vision Transformer for Emotion Detection in Facial Expressions
